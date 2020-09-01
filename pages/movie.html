@@ -1,0 +1,78 @@
+<!-- Hero -->
+<div class="hero">
+  <div class="hero-overlay"></div>
+  <p id="hero-back-btn">
+    <a href="javascript:void(0)" class="text-white" id="back-btn">
+      <i class="far fa-arrow-alt-circle-left"></i>
+    </a>
+  </p>
+  <img class="title-image" id="movie-poster">
+  <div class="hero-meta">
+    <p class="lead m-0">
+      <i class="fas fa-star text-warning"></i>
+      <span id="movie-rating"></span>/10
+    </p>
+    <h1 class="font-weight-bold"  id="movie-name"></h1>
+    <p class="lead">
+      <span id="movie-release"></span> &bull; <span id="movie-categories"></span> &bull; <span id="movie-runtime"></span>
+    </p>
+  </div>
+</div>
+<!-- END Hero -->
+
+<!-- Container -->
+<div class="container-fluid mt-5">
+  <div class="row section">
+    <div class="col-10 offset-1">
+      <div class="row">
+        <!-- Column -->
+        <div class="col-12 col-lg-10">
+          <p class="lead text-pink">Status: <span id="movie-status"></span></p>
+          <!-- YouTube Trailer -->
+          <div class="row">
+            <div class="col-12 col-lg-10 mb-5" id="movie-preview">
+              <h2 class="section-headings mb-3">Watch Trailer</h2>
+            </div>
+          </div>
+          <!-- END YouTube Trailer -->
+
+          <!-- Movie Info -->
+          <h2 class="section-headings mb-3">Summary</h2>
+          <p id="movie-summary"></p>
+          <p class="lead font-weight-bold mt-4 mb-0">Production Countries</p>
+          <ul id="movie-production-companies"></ul>
+          <!-- END Movie Info -->
+        </div>
+        <!-- END Column -->
+      </div>
+    </div>
+  </div><!-- END row -->
+
+  <!-- Cast -->
+  <div class="row section my-5">
+    <div class="col-10 offset-1">
+      <h2 class="section-headings mb-3">Cast</h2>
+      <div class="titles-slider" id="cast"></div>
+    </div>
+  </div>
+  <!-- END Cast -->
+
+  <!-- Related Movies -->
+  <div class="row section my-5">
+    <div class="col-10 offset-1">
+      <h2 class="section-headings mb-3">Related Movies</h2>
+      <div class="titles-slider" id="related-movies"></div>
+    </div>
+  </div>
+  <!-- END Related Movies -->
+
+  <!-- Reviews -->
+  <div class="row section my-5">
+    <div class="col-10 offset-1" id="review-container">
+      <h2 class="section-headings mb-3">Recent Reviews</h2>
+    </div>
+  </div>
+  <!-- END Reviews -->
+
+</div>
+<!-- END Container -->
