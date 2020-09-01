@@ -105,17 +105,6 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
-<!-- CONTACT -->
-## Contact
-
-Othneil Drew - [LinkedIn](https://linkedin.com/in/othneildrew) - codeguydrew@gmail.com
-
-Project Link: [https://github.com/othneildrew/Movie-Flex](https://github.com/othneildrew/Movie-Flex)
-
-
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
@@ -134,4 +123,6 @@ Project Link: [https://github.com/othneildrew/Movie-Flex](https://github.com/oth
 [contributors-shield]: https://img.shields.io/badge/contributors-1-orange.svg?style=flat-square
 [license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
 [license-url]: https://choosealicense.com/licenses/mit
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: https://raw.githubusercontent.com/othneildrew/othneildrew.github.io/master/images/projects/movie-flex.jpg
