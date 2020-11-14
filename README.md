@@ -19,11 +19,7 @@
     Browse your favorite movies, actors and watch trailers. See what's playing in theaters right now. Discover upcoming, trending, and top-rated titles.
     <br />
     <br />
-    <a href="https://www.othneildrew.com/Movie-Flex">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Movie-Flex/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Movie-Flex/issues">Request Feature</a>
+    <a href="https://azizamari.github.io/Movie-flex/">View Demo</a>
   </p>
 </p>
 
@@ -100,10 +96,6 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
